@@ -7,14 +7,14 @@ Original blog post on my website [here](https://pycad.co/the-best-python-librari
 
 # Outline
 
-- [Pydicom](https://github.com/amine0110/best-python-libraries-for-medical-imaging/edit/main/README.md#pydicom)
-- [Nibabel](https://github.com/amine0110/best-python-libraries-for-medical-imaging/edit/main/README.md#nibabel)
-- [Dicom2nifti](https://github.com/amine0110/best-python-libraries-for-medical-imaging/edit/main/README.md#dicom2nifti)
-- [SimpleITK](https://github.com/amine0110/best-python-libraries-for-medical-imaging/edit/main/README.md#simpleitk)
-- [VTK](https://github.com/amine0110/best-python-libraries-for-medical-imaging/edit/main/README.md#vtk)
-- [Numpy to STL (using NumPy-stl)](https://github.com/amine0110/best-python-libraries-for-medical-imaging/edit/main/README.md#numpy-stl)
-- [MedPy](https://github.com/amine0110/best-python-libraries-for-medical-imaging/edit/main/README.md#medpy)
-- [MONAI](https://github.com/amine0110/best-python-libraries-for-medical-imaging/edit/main/README.md#monai)
+- [Pydicom](https://github.com/amine0110/best-python-libraries-for-medical-imaging#pydicom)
+- [Nibabel](https://github.com/amine0110/best-python-libraries-for-medical-imaging#nibabel)
+- [Dicom2nifti](https://github.com/amine0110/best-python-libraries-for-medical-imaging#dicom2nifti)
+- [SimpleITK](https://github.com/amine0110/best-python-libraries-for-medical-imaging#simpleitk)
+- [VTK](https://github.com/amine0110/best-python-libraries-for-medical-imaging#vtk)
+- [Numpy to STL (using NumPy-stl)](https://github.com/amine0110/best-python-libraries-for-medical-imaging#numpy-stl)
+- [MedPy](https://github.com/amine0110/best-python-libraries-for-medical-imaging#medpy)
+- [MONAI](https://github.com/amine0110/best-python-libraries-for-medical-imaging#monai)
 
 ---
 
