@@ -152,36 +152,36 @@ Because there are so many things we can do with this library, I'll provide a lin
 [🔗](https://loli.github.io/medpy/) Another SimpleITK-based library for medical imaging that can be used for reading and writing files such as:
 Medical formats:
 
-ITK MetaImage (.mha/.raw, .mhd)
-Neuroimaging Informatics Technology Initiative (NIfTI) (.nia, .nii, .nii.gz, .hdr, .img, .img.gz)
-Analyze (plain, SPM99, SPM2) (.hdr/.img, .img.gz)
-Digital Imaging and Communications in Medicine (DICOM) (.dcm, .dicom)
-Digital Imaging and Communications in Medicine (DICOM) series (<directory>/)
-Nearly Raw Raster Data (Nrrd) (.nrrd, .nhdr)
-Medical Imaging NetCDF (MINC) (.mnc, .MNC)
-Guys Image Processing Lab (GIPL) (.gipl, .gipl.gz)
+- ITK MetaImage (.mha/.raw, .mhd)
+- Neuroimaging Informatics Technology Initiative (NIfTI) (.nia, .nii, .nii.gz, .hdr, .img, .img.gz)
+- Analyze (plain, SPM99, SPM2) (.hdr/.img, .img.gz)
+- Digital Imaging and Communications in Medicine (DICOM) (.dcm, .dicom)
+- Digital Imaging and Communications in Medicine (DICOM) series (<directory>/)
+- Nearly Raw Raster Data (Nrrd) (.nrrd, .nhdr)
+- Medical Imaging NetCDF (MINC) (.mnc, .MNC)
+- Guys Image Processing Lab (GIPL) (.gipl, .gipl.gz)
 
 ## Microscopy formats:
 
-Medical Research Council (MRC) (.mrc, .rec)
-Bio-Rad (.pic, .PIC)
-LSM (Zeiss) microscopy images (.tif, .TIF, .tiff, .TIFF, .lsm, .LSM)
-Stimulate / Signal Data (SDT) (.sdt)
+- Medical Research Council (MRC) (.mrc, .rec)
+- Bio-Rad (.pic, .PIC)
+- LSM (Zeiss) microscopy images (.tif, .TIF, .tiff, .TIFF, .lsm, .LSM)
+- Stimulate / Signal Data (SDT) (.sdt)
 
 
 ## Visualization formats:
 
-VTK images (.vtk)
+- VTK images (.vtk)
 
 
 ## Other formats:
 
-Portable Network Graphics (PNG) (.png, .PNG)
-Joint Photographic Experts Group (JPEG) (.jpg, .JPG, .jpeg, .JPEG)
-Tagged Image File Format (TIFF) (.tif, .TIF, .tiff, .TIFF)
-Windows bitmap (.bmp, .BMP)
-Hierarchical Data Format (HDF5) (.h5 , .hdf5 , .he5)
-MSX-DOS Screen-x (.ge4, .ge5)
+- Portable Network Graphics (PNG) (.png, .PNG)
+- Joint Photographic Experts Group (JPEG) (.jpg, .JPG, .jpeg, .JPEG)
+- Tagged Image File Format (TIFF) (.tif, .TIF, .tiff, .TIFF)
+- Windows bitmap (.bmp, .BMP)
+- Hierarchical Data Format (HDF5) (.h5 , .hdf5 , .he5)
+- MSX-DOS Screen-x (.ge4, .ge5)
 
 ---
 
