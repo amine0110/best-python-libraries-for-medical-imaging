@@ -2,8 +2,12 @@
 ## Pydicom, Nibabel, VTK,…
 
 
-Video from PexelsIn this blog post, we will discuss the best libraries that can be used in Python for medical imaging.
+In this blog post, we will discuss the best libraries that can be used in Python for medical imaging.
 Original blog post on my website [here](https://pycad.co/the-best-python-libraries-for-medical-imaging/).
+
+Learn how to effectively manage and process DICOM files in Python with our comprehensive course, designed to equip you with the skills and knowledge you need to succeed.
+
+https://www.learn.pycad.co/course/dicom-simplified
 
 # Outline
 
