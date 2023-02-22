@@ -195,7 +195,8 @@ Medical formats:
 
 ---
 
-# Full deep learning course
+## 📩 Newsletter
+Stay up-to-date on the latest in computer vision and medical imaging! Subscribe to my newsletter now for insights and analysis on the cutting-edge developments in this exciting field.
 
-You can join our waitlist [here](https://pycad.co/deep-learning-for-medical-imaging/).
+https://pycad.co/join-us/
 
